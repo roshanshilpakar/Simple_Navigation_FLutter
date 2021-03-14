@@ -11,7 +11,7 @@ class _EventPageState extends State<NotesPage> {
     return Container(
       child: Center(
         child: Text(
-            "NOtes Page"
+            "Notes Page"
         ),
       ),
     );
